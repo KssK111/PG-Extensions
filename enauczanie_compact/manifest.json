@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "eNauczanie Compact",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://enauczanie.pg.edu.pl/2025/my/*", "https://enauczanie.pg.edu.pl/2025/calendar*"],
+      "css": ["style.css"],
+      "run_at": "document_start"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.card-img-top {
+  display: none;
+}
+
+.calendarwrapper td>div {
+  height: auto !important;
+}
