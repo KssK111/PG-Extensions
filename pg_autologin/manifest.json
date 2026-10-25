@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "PG Autologin",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://logowanie.pg.edu.pl/login*"],
+      "js": ["content.js"]
+    }
+  ]
+}
