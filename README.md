@@ -1,5 +1,7 @@
 # By strony PG mniej ssały
 
+[Dodawanie rozszerzeń](./TUTORIAL.md)
+
 Warto pobrać też [Dark Readera](https://darkreader.org/)
 
 Co robi [pg_autologin](./pg_autologin/) i [stos_autologin](./stos_autologin/) raczej nie trzeba tłumaczyć
