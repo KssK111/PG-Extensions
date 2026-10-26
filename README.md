@@ -8,7 +8,7 @@ Co robi [pg_autologin](./pg_autologin/) i [stos_autologin](./stos_autologin/) ra
 
 Automatycznie usuwa stare pliki i zatwierdza zmiany
 
-<video src="https://github.com/user-attachments/assets/0568fc67-cac2-47ed-895f-a99aeaa949d8" controls width="100%"></video>
+https://github.com/user-attachments/assets/0568fc67-cac2-47ed-895f-a99aeaa949d8
 
 ## [STOS Kod](./stos_kod/)
 
