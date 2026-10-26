@@ -8,7 +8,7 @@ Co robi [pg_autologin](./pg_autologin/) i [stos_autologin](./stos_autologin/) ra
 
 Automatycznie usuwa stare pliki i zatwierdza zmiany
 
-![](./showcase/stos_autosubmit.mp4)
+<video src="./showcase/stos_autosubmit.mp4" controls width="100%"></video>
 
 ## [STOS Kod](./stos_kod/)
 
