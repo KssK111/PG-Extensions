@@ -1,4 +1,4 @@
-# By strony PG mniej ssały
+# By strony PG mniej ssały (będę dodawał więcej)
 
 [Dodawanie rozszerzeń](./TUTORIAL.md)
 
