@@ -12,7 +12,7 @@ Automatycznie usuwa stare pliki i zatwierdza zmiany
 
 <https://github.com/user-attachments/assets/0568fc67-cac2-47ed-895f-a99aeaa949d8>
 
-## STOS Relative Time
+## [STOS Relative Time](./stos_relative_time/)
 
 ![](./showcase/stos_relative_time.png)
 
