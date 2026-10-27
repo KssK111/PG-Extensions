@@ -10,7 +10,11 @@ Co robi [pg_autologin](./pg_autologin/) i [stos_autologin](./stos_autologin/) ra
 
 Automatycznie usuwa stare pliki i zatwierdza zmiany
 
-https://github.com/user-attachments/assets/0568fc67-cac2-47ed-895f-a99aeaa949d8
+<https://github.com/user-attachments/assets/0568fc67-cac2-47ed-895f-a99aeaa949d8>
+
+## STOS Relative Time
+
+![](./showcase/stos_relative_time.png)
 
 ## [STOS Kod](./stos_kod/)
 
